@@ -10,4 +10,4 @@
 - none
 ## how to reach me
 - Email:davidkinyuamuraya@gmail.com
-- LinkedIn:Dvid kinyua
+- LinkedIn:David kinyua
