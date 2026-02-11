@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**davidkinyuamuraya-wq/davidkinyuamuraya-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi I'm [David Kinyua]
+## About me
+-I'm currently learning [Analytical Chemistry with management at Kenyatta University]:
+-I'm intrested in [computer programmig,AI, and data science]
+-I'm looking to cooperate on [begginer-friendly open source projects]
+## Skills I'm buildind 
+-Git and Github
+-Python
+## current project
+- none
+## how to reach me
+- Email:davidkinyuamuraya@gmail.com
+- LinkedIn:Dvid kinyua
