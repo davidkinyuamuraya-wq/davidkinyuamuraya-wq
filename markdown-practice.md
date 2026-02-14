@@ -21,17 +21,17 @@
 - [x] learn the basics of markdown
 - [ ] learn markdown
 - [ ] learn html
-- [ ]learn python
+- [ ] learn python
 ```python
 print(" Hello, world")
 ```
 > you never know what will happen when you try but nothing will happen if you don't start
 ### About me 
-** Hi there ** 
-I'm DAvid a student at * Kenyatta university * studying Analytical chemistry with management
+**Hi there** 
+I'm DAvid a student at *Kenyatta university* studying Analytical chemistry with management
 #### Skills I'm building 
--markdown
--python
--Java
--javascript
+- markdown
+- python
+- Java
+- javascript
 
