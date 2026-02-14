@@ -1,6 +1,6 @@
 #My learning goals
 ### This semester
-**learning** hot to *write code* ~~and the programmimg languages~~
+**learning** how to *write code* ~~and the programmimg languages~~
 [link text] (https://github.com/davidkinyuamuraya-wq)
 ### Things I want to know
 - Python
@@ -10,6 +10,7 @@
   1. enroll in a computer programmimg programme
   2. learn the different programming languages
   3. practice the languages
+     
 | tool  |purpose            | link                               |
 |-------|-------------------|------------------------------------|
 |Github |AI Assistant       |https://github.com/                 |
