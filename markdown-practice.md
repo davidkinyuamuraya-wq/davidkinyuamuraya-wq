@@ -28,7 +28,7 @@ print(" Hello, world")
 > you never know what will happen when you try but nothing will happen if you don't start
 ### About me 
 **Hi there** 
-I'm DAvid a student at *Kenyatta university* studying Analytical chemistry with management
+I'm David a student at *Kenyatta university* studying *Analytical chemistry with management*
 #### Skills I'm building 
 - markdown
 - python
