@@ -1,4 +1,4 @@
-#My learning goals
+# My learning goals
 ### This semester
 **learning** how to *write code* ~~and the programmimg languages~~
 [link text] (https://github.com/davidkinyuamuraya-wq)
